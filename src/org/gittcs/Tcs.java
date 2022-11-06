@@ -18,11 +18,13 @@ public class Tcs {
 	}
 	private void method4() {
 	      System.out.println("Testing");
-	
-	      
+	}
+	 private void method5() {
+     System.out.println("Oracle");
+	}     
 	   
 	      
-	}}
+	}
 	
 	
 	
