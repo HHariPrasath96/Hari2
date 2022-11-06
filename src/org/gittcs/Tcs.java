@@ -16,8 +16,13 @@ public class Tcs {
 	private void method3() {
       System.out.println("C#");
 	}
+	private void method4() {
+	      System.out.println("Testing");
 	
-}	
+	      
+	   
+	      
+	}}
 	
 	
 	
